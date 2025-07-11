@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] Image switches when button is clicked using setOnClickListener()!
+* [x] Image switches when button is clicked using setOnClickListener()!
 
 ## Video Walkthrough
 
