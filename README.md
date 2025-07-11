@@ -2,7 +2,7 @@
 
 Submitted by: **Carlos Cabrera**
 
-**Hello Nugget** is an android app that shows an image of my dog nugget and introductory message about myself. 
+**Hello Nugget** is an android app that shows an image of my Golden Retriever, Nugget, and also an introductory message about myself. 
 It allows pressing a button to display a Toast and toggle back and forth betweeen two different Nugget pictures. 
 
 Time spent: **3** hours spent in total
