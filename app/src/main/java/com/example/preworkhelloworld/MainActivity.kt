@@ -1,6 +1,7 @@
 package com.example.preworkhelloworld
 
 import android.os.Bundle
+import android.util.Log
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.Toast
@@ -30,6 +31,7 @@ class MainActivity : AppCompatActivity() {
     private fun setupButton(button: Button) {
         button.setOnClickListener {
             Toast.makeText(this, "Hello back!", Toast.LENGTH_SHORT).show()
+            Log.v("Hello World", "Button Clicked!")
 
             if (switchImg) {
                 changeNuggetImg()
